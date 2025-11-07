@@ -11,21 +11,22 @@ Objectives:
 
 The dataset used in this project is the built-in tips dataset from Seaborn.
 
+
 Column Name    |  	Description
 
-total_bill	      Total bill amount (USD)
+total_bill	  -    Total bill amount (USD)
 
-tip	              Tip amount given by the customer (USD)
+tip	          -   Tip amount given by the customer (USD)
 
-sex              	Gender of the customer (Male/Female)
+sex           -   	Gender of the customer (Male/Female)
 
-smoker	          Whether the customer is a smoker (Yes/No)
+smoker	      -    Whether the customer is a smoker (Yes/No)
 
-day             	Day of the week (Thur, Fri, Sat, Sun)
+day           -  	Day of the week (Thur, Fri, Sat, Sun)
 
-time            	Time of day (Lunch/Dinner)
+time          -  	Time of day (Lunch/Dinner)
 
-size	            Size of the dining party
+size	        -    Size of the dining party
 
 Key Steps:
 
